@@ -1,0 +1,24 @@
+<dependencies>
+  <compile
+      roots="C:\Users\sures\AR  basketball tinkering lab jai mata di\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release">
+    <dependency
+        name="C:\Users\sures\AR  basketball tinkering lab jai mata di\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+  </compile>
+  <package
+      roots="C:\Users\sures\AR  basketball tinkering lab jai mata di\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release,__local_aars__:C:\Users\sures\AR  basketball tinkering lab jai mata di\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar,:arcore_client:@aar,:ARPresto:@aar,:UnityARCore:@aar,:unityandroidpermissions:@aar">
+    <dependency
+        name="C:\Users\sures\AR  basketball tinkering lab jai mata di\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+    <dependency
+        name="__local_aars__:C:\Users\sures\AR  basketball tinkering lab jai mata di\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"/>
+    <dependency
+        name=":arcore_client:@aar"/>
+    <dependency
+        name=":ARPresto:@aar"/>
+    <dependency
+        name=":UnityARCore:@aar"/>
+    <dependency
+        name=":unityandroidpermissions:@aar"/>
+  </package>
+</dependencies>

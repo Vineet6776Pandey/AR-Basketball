@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 500933a6c7585fe4188fb4b6c25316b9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hoopGameObject: {instanceID: 0}
+  - disappearSound: {instanceID: 0}
+  - reappearSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
